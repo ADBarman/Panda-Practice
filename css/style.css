@@ -1,0 +1,23 @@
+.navbar{
+    margin-bottom: 40px;;
+}
+.rounded-pill1{
+    border-right: 0!important;
+    border-top-right-radius: 0!important;
+    border-bottom-right-radius: 0!important;
+    font-style: italic;
+}
+.rounded-pill2{
+    border-top-left-radius: 0!important;
+    border-bottom-left-radius: 0!important;
+}
+.bg-secondary{
+    background-color: #e9ecef!important;
+}
+.rounded-pill1:focus{
+    border: none;
+}
+.c-color{
+    background-color: #fceae8;
+    border-radius: 10px;
+}
