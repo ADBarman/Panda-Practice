@@ -1,5 +1,5 @@
-.navbar{
-    margin-bottom: 40px;;
+.container{
+    margin-bottom: 100px;;
 }
 .rounded-pill1{
     border-right: 0!important;
@@ -35,4 +35,43 @@
     padding: 12px 30px;
     margin-top: 10px;
     color: white;
+}
+.cat1{
+    background-color: orange;
+}
+.cat2{
+    background-color: orchid;
+
+}
+.cat3{
+    background-color: blue;
+}
+.cat1, .cat2, .cat3{
+    padding: 10px 30px;
+    border-radius: 10px;
+}
+.categories h1{
+    color: white;
+}
+.categories img{
+    width: 120px;
+}
+.card{
+    border: none;
+    border-radius: 10px;
+    box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+    border-top: none;
+    background-color: white;
+}
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: gray;
+}
+footer{
+    text-align: center;
+    padding-bottom: 15px;
 }
